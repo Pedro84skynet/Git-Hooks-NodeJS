@@ -1,0 +1,20 @@
+{
+  "name": "git-hooks-nodejs",
+  "version": "1.0.0",
+  "description": "NodeJs testing repository with Husky and Commitlint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedro84skynet/Git-Hooks-NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedro84skynet/Git-Hooks-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Pedro84skynet/Git-Hooks-NodeJS#readme"
+}
