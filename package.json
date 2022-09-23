@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/Pedro84skynet/Git-Hooks-NodeJS#readme",
   "devDependencies": {
-    "jest": "^29.0.3"
-  }
+    "husky": "^4.3.8",
+    "jest": "^29.0.3",
+    "pre-commit": "^1.2.2"
+  },
+  "pre-commit": [
+    "test"
+  ]
 }
